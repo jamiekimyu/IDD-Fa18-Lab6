@@ -2,8 +2,6 @@
 
 *A lab report by Jamie Yu*
 
-## In this Report
-
 ## Make the ChatBot your own
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
